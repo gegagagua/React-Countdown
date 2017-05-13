@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  font-size: 25px;
+  margin-top: 20%;
+}
+
+.Clock-container div {
+    display: inline-block;
+    margin: 5px;
+}
+
+.App-title {
+  font-size: 30px;
+}
